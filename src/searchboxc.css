@@ -1,0 +1,10 @@
+.searchbox{
+    border: none;
+    outline: none;
+    width: 180px;
+    padding: 10px;
+    margin-bottom: 30px;
+    line-height: 10px;
+    display: flex;
+    align-items: center;
+}

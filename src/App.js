@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import {Cardlist} from './components/card-list/cardlist';
-//import {Cards} from './components/cards-re/cards';
-//import {Searchboxj} from './components/searchbox/searchboxj';
+
 import './searchboxc.css'
 
 import './App.css';
